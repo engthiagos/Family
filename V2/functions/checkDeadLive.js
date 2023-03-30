@@ -11,4 +11,3 @@ if (memberNew.deathDate == '') {
 }
 // export data
 module.exports = checkDeadLive 
-// t

@@ -2,7 +2,7 @@
 let memberDataNew = 
     {name: 'Funnyzinha',
     lastName: 'Carneiro dos Santos',
-    birthDate: new Date (2023, 01, 04),
+    birthDate: new Date (2023, 00, 04),
     gender: "Fêmea",
     kinship: "4º Pet",
     deathDate: '',
